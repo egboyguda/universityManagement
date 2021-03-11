@@ -1,0 +1,27 @@
+{
+  "name": "university_admin",
+  "version": "1.0.0",
+  "description": "university management site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egboyguda/universityManagement.git"
+  },
+  "keywords": [
+    "university_management"
+  ],
+  "author": "egboy guda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egboyguda/universityManagement/issues"
+  },
+  "homepage": "https://github.com/egboyguda/universityManagement#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.19"
+  }
+}
